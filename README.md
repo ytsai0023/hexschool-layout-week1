@@ -13,8 +13,4 @@ gulp-ejs不知道為什麼不能用就換gulp-nunjucks-render
 
 ### 心得整理
 
-token
-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
-
-https://medium.com/geekculture/how-to-change-your-github-remote-authentication-from-username-password-to-personal-access-token-64e527a766cf
 
